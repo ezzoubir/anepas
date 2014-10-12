@@ -2247,7 +2247,7 @@
 
   /* sidebar right (default) */
   #middle .content {
-    width: 590px;
+    width: 900px;
     float: left;
     margin: 0 30px;
     position: relative;
@@ -2301,9 +2301,9 @@
     font-family: 'Open Sans' !important;
     font-weight: 800 !important;
     float: right;
-    width: 55px;
+    width: 76px;
     height: 41px;
-    padding: 28px 20px;
+    padding: 28px 10px;
     margin-top: 51px;
     visibility: visible;
   }
@@ -2314,7 +2314,7 @@
     font-size: 16px;
   }
   #topmenu .dropdown li {
-    margin-left:40px;}
+    margin-left:20px;}
    #topmenu .dropdown li a span {
     font: 13px 'Open Sans' !important;
   }
@@ -2744,8 +2744,8 @@
   .work-carousel li {
     display: block;
     float: left;
-    width: 280px;
-    height: 241px;
+    width: 212px;
+    height: 205px;
     margin-right: 15px;
     position: relative;
     background: #fff;
